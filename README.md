@@ -13,7 +13,7 @@ An interactive HR dashboard that provides a clear overview of key organizational
 
 - User Experience – Light and dark mode options for a comfortable viewing experience across all users.
 
-####Impact
+#### Impact
 This dashboard empowers HR professionals to make informed, data-driven decisions that improve employee engagement and strengthen organizational stability.
 
 #### Medium blog: https://medium.com/@ts.dulcet/human-resources-dashboard-484d23475cd3  
