@@ -16,5 +16,5 @@ An interactive HR dashboard that provides a clear overview of key organizational
 #### Impact
 This dashboard empowers HR professionals to make informed, data-driven decisions that improve employee engagement and strengthen organizational stability.
 
-While creating this dashboard, I explored the purpose and impact of HR dashboards in transforming workforce strategies. Based on these learnings, I also wrote a detailed blog explaining how data can be used to drive HR decision-making. You can read it here:
-#### Medium blog: https://medium.com/@ts.dulcet/human-resources-dashboard-484d23475cd3  
+#### While creating this dashboard, I explored the purpose and impact of HR dashboards in transforming workforce strategies. Based on these learnings, I also wrote a detailed blog explaining how data can be used to drive HR decision-making. You can read it here:
+##### Medium blog: https://medium.com/@ts.dulcet/human-resources-dashboard-484d23475cd3  
