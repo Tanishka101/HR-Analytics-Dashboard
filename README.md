@@ -1,5 +1,19 @@
-## HR-Analytics-Dashboard
-#### Human Resources Dashboard: Transform your HR Strategy with Data
-Welcome to our interactive HR Analytics Dashboard! This tool is designed to give you a friendly and detailed look at our workforce data, focusing on fundamental areas like employee attrition, job satisfaction, and demographics. Moreover, you'll find some key metrics that provide a quick snapshot of our workforce. Overall, this dashboard is here to provide clear and friendly insights into employee retention and engagement. We hope it helps our HR team make smart, data-driven decisions to enhance workforce stability and satisfaction!
+## HR Analytics Dashboard
+An interactive HR dashboard that provides a clear overview of key organizational activities. It is designed to be simple and intuitive, allowing users to grasp insights at a glance.
+#### Key Features
+- Summary Cards – Highlights key workforce metrics at a glance (e.g., Total Employees: 961, Attrition: 133, Avg Salary: 6.28K, Attrition%: 13.8%).
+
+- Workforce Insights – Visualizations such as:
+
+-- Attrition by Age Group
+-- Attrition by Years at Company
+-- Attrition by Education Field
+-- Job Satisfaction by Role
+-- Gender Distribution
+
+- User Experience – Light and dark mode options for a comfortable viewing experience across all users.
+
+####Impact
+This dashboard empowers HR professionals to make informed, data-driven decisions that improve employee engagement and strengthen organizational stability.
 
 #### Medium blog: https://medium.com/@ts.dulcet/human-resources-dashboard-484d23475cd3  
